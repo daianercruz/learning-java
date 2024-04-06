@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ControleFluxo",
+            "request": "launch",
+            "mainClass": "ControleFluxo.ControleFluxo",
+            "projectName": "learning-java_a39695d5"
+        },
+        {
+            "type": "java",
             "name": "OperadoresUnarios",
             "request": "launch",
             "mainClass": "OperadoresUnarios",
