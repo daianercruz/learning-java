@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exercicio3",
+            "request": "launch",
+            "mainClass": "Exercicio3",
+            "projectName": "learning-java_a39695d5"
+        },
+        {
+            "type": "java",
             "name": "CondicionaisComposta",
             "request": "launch",
             "mainClass": "ControleFluxo.CondicionaisComposta",
